@@ -20,7 +20,7 @@
 
 ## 🔗 Let’s Connect!
 - 🐦 Twitter: [@YashOnGrind](https://x.com/YashOnGrind)
-- 💼 LinkedIn: [Coming Soon]
+- 💼 LinkedIn: https://www.linkedin.com/in/yash-patel-61020a347/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNhGBFNInTUCrwjAsu4o%2B5g%3D%3D
 - 🌱 Portfolio: [Coming Soon]
 
 #100DaysOfCode #BuildInPublic #OpenSource #GSoC2026
