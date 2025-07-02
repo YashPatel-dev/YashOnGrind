@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Yash!
 
-🚀 A 2nd-year Data Science student from India, building my way into Full Stack Web Development and AI/ML.
+🚀 A 1st-year Data Science student from India, building my way into Full Stack Web Development and AI/ML.
 
 ## 🔧 Tech I’m Working With:
 - Python
