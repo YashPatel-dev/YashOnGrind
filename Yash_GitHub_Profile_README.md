@@ -14,8 +14,8 @@
 - Building HTML-only projects + pushing daily
 
 ## 🎯 Goals:
-- Crack GSoC 2026 🚀
-- Land remote internships/freelance by Jan 2026
+- To Crack GSoC 2026 🚀
+- Land remote internships/freelance by March 2026
 - Build and learn in public — every single day
 
 ## 🔗 Let’s Connect!
